@@ -4,3 +4,8 @@
 - Funcionalidades
 - Licencias
 - Licencias
+
+
+Para ejecutar el sistema debes ejecutar el siguiente comando en la terminal:
+
+```npm install react```
