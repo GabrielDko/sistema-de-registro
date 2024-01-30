@@ -9,3 +9,4 @@
 Para ejecutar el sistema debes ejecutar el siguiente comando en la terminal:
 
 ```npm install react```
+Probando descarga de actualizaciones con el comando ```git pull```
